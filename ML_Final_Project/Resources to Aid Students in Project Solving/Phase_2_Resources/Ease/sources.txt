@@ -1,0 +1,3 @@
+dataset: https://grouplens.org/datasets/movielens/1m/
+
+https://en.wikipedia.org/wiki/Matrix_calculus

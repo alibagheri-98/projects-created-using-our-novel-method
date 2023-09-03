@@ -1,0 +1,8 @@
+dataset: https://grouplens.org/datasets/movielens/100k/
+
+
+https://github.com/vishank94/Movie-Recommendation-System/blob/master/Scripts/recommendationSystem.ipynb
+
+https://en.wikipedia.org/wiki/Decision_tree_learning
+https://towardsdatascience.com/regression-trees-step-by-step-4de996e27f85
+https://ken-hoffman.medium.com/decision-tree-hyperparameters-explained-49158ee1268e

@@ -1,0 +1,10 @@
+dataset: https://grouplens.org/datasets/movielens/100k/
+
+https://en.wikipedia.org/wiki/Gradient_boosting
+https://machinelearningmastery.com/gentle-introduction-gradient-boosting-algorithm-machine-learning/
+https://en.wikipedia.org/wiki/XGBoost
+https://machinelearningmastery.com/extreme-gradient-boosting-ensemble-in-python/
+http://uc-r.github.io/public/images/analytics/gbm/boosted_stumps.gif
+
+
+https://scikit-learn.org/stable/auto_examples/preprocessing/plot_scaling_importance.html#sphx-glr-auto-examples-preprocessing-plot-scaling-importance-py
