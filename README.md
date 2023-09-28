@@ -9,3 +9,5 @@ These projects have been meticulously sculpted to bridge the gap between theory 
 As part of our ongoing commitment to this field, we are currently in the process of preparing a research paper titled 'A Novel Method for Designing Course Projects and Addressing Educational Objectives.' This paper represents the collective effort of Ali Bagheri, Amirhossein Naghdi, and Mohammad Hossein Yassaee. In it, we present our innovative methodology, outlining how it has the potential to revolutionize course design and significantly impact student learning outcomes.
 
 We are passionate about education and are dedicated to improving the way students learn and engage with their coursework. Our hope is that our research and projects will not only benefit current students but also contribute to the broader educational community's understanding of effective course design and its positive effects on student achievement.
+
+We are submitting our results. A draft of our work is in 'A Novel Method for Designing Course Projects.pdf'. We can't upload the final paper due to some constraints, but our paper will be available soon.
