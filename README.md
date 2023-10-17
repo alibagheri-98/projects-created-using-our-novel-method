@@ -6,7 +6,7 @@ We conducted research to explore various methodologies for designing final cours
 
 These projects have been meticulously sculpted to bridge the gap between theory and real-world practicality. We wanted to provide students with not just theoretical knowledge but also hands-on experience, allowing them to apply what they've learned to actual situations. Our goal was to make learning more engaging, relevant, and applicable.
 
-As part of our ongoing commitment to this field, we are currently in the process of preparing a research paper titled 'A Novel Method for Designing Course Projects and Addressing Educational Objectives.' This paper represents the collective effort of Ali Bagheri, Amirhossein Naghdi, and Mohammad Hossein Yassaee. In it, we present our innovative methodology, outlining how it has the potential to revolutionize course design and significantly impact student learning outcomes.
+As part of our ongoing commitment to this field, we are currently in the process of preparing a research paper titled 'A Novel Method for Designing Course Projects and Addressing Educational Objectives.' This paper represents the collective effort of Ali Bagheri, Amirhossein Naghdi. In it, we present our innovative methodology, outlining how it has the potential to revolutionize course design and significantly impact student learning outcomes.
 
 We are passionate about education and are dedicated to improving the way students learn and engage with their coursework. Our hope is that our research and projects will not only benefit current students but also contribute to the broader educational community's understanding of effective course design and its positive effects on student achievement.
 
